@@ -1,1 +1,1 @@
-# First-Ever-project-about-Web-Dev
+# something-as-a-project
