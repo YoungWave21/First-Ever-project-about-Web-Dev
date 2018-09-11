@@ -1,0 +1,94 @@
+p, ul {
+    font-family: Verdana;
+}
+.pgreen {
+    font-family: Verdana;
+}
+
+html {
+    background: url("Images/something.jpeg") no-repeat center fixed; 
+    background-size: cover;
+}
+
+h1 {
+    color: black;
+    text-align: center;
+    margin-left: 25px;
+    margin-right: 25px;
+    width: 600px;
+    margin: auto;
+    margin-bottom: 30px;
+    text-shadow: 1.5px 1.5px white;
+    font-size: 70px;
+}
+h2 {
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-variant: small-caps;
+    background-repeat: no-repeat;
+}
+
+/* Div section start */
+    .div1 {
+        background-color: rgb(255, 255, 255);
+        width: 600px;
+        margin: auto;
+        padding: 10px 100px;
+        border-radius: 13px;
+        border: 2px solid #e44d26;
+        box-shadow: 5px 5px #e44d26;  
+        margin-bottom: 20px;
+        color:#e44d26  
+    }
+
+    .div2 {
+        background-color: rgb(255, 255, 255);
+        width: 600px;
+        margin: auto;
+        padding: 10px 100px;
+        border-radius: 13px;
+        border: 2px solid #7881cf;
+        box-shadow: 5px 5px #7881cf;
+        margin-bottom: 20px;  
+        color:#7881cf;
+    }
+
+    .div3 {
+        background-color: rgb(255, 255, 255);
+        width: 600px;
+        margin: auto;
+        padding: 10px 100px;
+        border-radius: 13px;
+        border: 2px solid #f7df1e;
+        box-shadow: 5px 5px #f7df1e;
+        margin-bottom: 20px; 
+        color: #f7df1e
+    }
+    .flashnews {
+        background-color: rgb(255, 255, 255);
+        border-radius: 13px;
+        border: 5px solid yellowgreen;
+        box-shadow: 5px 5px yellowgreen; 
+        padding-bottom: 17px;
+        font-size: 34px;
+    }
+    .close {
+        padding-top: 1px;
+    }
+/* Div section end */
+.hred {
+    color: #e44d26;
+}
+.hpurple {
+    color:#7881cf;
+}
+.hyellow {
+    color:#f7df1e;
+}
+/* Links section */
+a {
+    color: rgb(60, 179, 113);
+    text-decoration: none;  
+}
+a:hover {
+    text-decoration: underline;
+}
